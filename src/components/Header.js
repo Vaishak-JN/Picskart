@@ -17,7 +17,7 @@ export function Header() {
     return (
         <header>
             <Link to="/">
-                <h2>Pic Some</h2>
+                <h2>Picskart</h2>
             </Link>
             <Link to="/cart">
                 {/* {cart()} */}
